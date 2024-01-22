@@ -78,7 +78,7 @@ int main(){
         s.push(r);
         a=a/2;
     }
-    cout<<"Binary representation: ";
+    cout<<"Binary representatation and: ";
     while(!s.empty()){
         cout<<s.top();
         s.pop();
